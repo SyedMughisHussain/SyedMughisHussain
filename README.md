@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmughishussain&label=Profile%20views&color=0e75b6&style=flat" alt="syedmughishussain" /> </p>
 
-- 🔭 I’m currently working on **To Do list App**
+- 🌱 I’m currently learning **Flutter and dart**
 
-- 🌱 I’m currently learning **Android , Flutter and dart**
-
-- 💬 Ask me about **Java, Android Development**
+- 💬 Ask me about **Dart, Mobile Development**
 
 - 📫 How to reach me **syedmughis4541@gmail.com**
 
