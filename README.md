@@ -8,8 +8,10 @@
 - 💬 Ask me about **Dart, Mobile Development**
 
 - 📫 How to reach me **syedmughis4541@gmail.com**
-<p align="center"><a href="" target="blank">MY PERSONAL PORTFOLIO WEBSITE</p> 
+- 
 - ⚡ Fun fact **I am Funny**
+
+<p align="center"><a href="" target="blank">MY PERSONAL PORTFOLIO WEBSITE</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
