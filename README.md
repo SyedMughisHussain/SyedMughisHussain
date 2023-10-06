@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Mughis Hussain</h1>
-<img align="center" alt="Coding" width="100%" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="100%" height="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=syedmughishussain&label=Profile%20views&color=0e75b6&style=flat" alt="syedmughishussain" /> </p>
 
