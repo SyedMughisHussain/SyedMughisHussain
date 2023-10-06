@@ -3,6 +3,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=syedmughishussain&label=Profile%20views&color=0e75b6&style=flat" alt="syedmughishussain" /> </p>
 
+<h1>About Me</h1>
+
 - 🌱 I’m currently learning **Flutter and dart**
 
 - 💬 Ask me about **Dart, Mobile Development**
