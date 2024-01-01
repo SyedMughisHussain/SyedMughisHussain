@@ -1,4 +1,3 @@
-####Syed
 
 <h1 align="center">Hi 👋, I'm Syed Mughis Hussain</h1>
 <img align="center" alt="Coding" width="100%" height="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -15,7 +14,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<p align="center"><a href="https://portfolio-website-6ab30.web.app/#/" target="blank">MY PERSONAL PORTFOLIO WEBSITE</p> 
+<p align="center"><a href="https://mughis.vercel.app/" target="blank">MY PERSONAL PORTFOLIO WEBSITE</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
