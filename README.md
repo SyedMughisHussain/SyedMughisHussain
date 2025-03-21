@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Mughis Hussain</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan.</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <img align="center" alt="Coding" width="100%" height="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
