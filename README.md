@@ -3,19 +3,17 @@
 
 <img align="center" alt="Coding" width="100%" height="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmughishussain&label=Profile%20views&color=0e75b6&style=flat" alt="syedmughishussain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedMughisHussain&label=Profile%20views&color=0e75b6&style=flat" alt="syedmughishussain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedmughishussain" alt="syedmughishussain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedMughisHussain" alt="syedmughishussain" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DevOps/Cloud**
 
 - 👨‍💻 All of my projects are available at [https://mughis.vercel.app/](https://mughis.vercel.app/)
 
-- 💬 Ask me about **React, Node, Express, MongoDb, and react native.**
+- 💬 Ask me about **React, Next, Node, Express, MySQL, PostgreSQL, MongoDb, and React Native.**
 
-- 📫 How to reach me **syedmughis4541@gmail.com**
+- 📫 How to reach me **mughis.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
