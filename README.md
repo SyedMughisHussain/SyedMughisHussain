@@ -158,63 +158,11 @@ A modern portfolio showcasing my projects and skills.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedMughisHussain&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMughisHussain&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMughisHussain&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMughisHussain&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SyedMughisHussain&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📦 GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedMughisHussain&theme=github_dark"/>
-
-</p>
-
----
-
-# 📅 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyedMughisHussain&theme=github_dark"/>
 
 </p>
 
@@ -228,7 +176,7 @@ A modern portfolio showcasing my projects and skills.
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/syed-mughis-hussain-ab420a239">
+<a href="https://www.linkedin.com/in/syed-mughis-hussain/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
